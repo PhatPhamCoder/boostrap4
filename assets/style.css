@@ -1,0 +1,73 @@
+.h1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.nav-link{
+    font-size: large;
+}
+.carousel-inner{
+    max-height: 600px;
+    border-radius: 10px;
+}
+.number{
+    background: #FFFFFF;
+    border: 1px solid #DDDFE1;
+    box-sizing: border-box;
+    border-radius: 50px;
+    outline: none;
+    padding-left: 15px;
+    height: 40px;
+    width: calc(100% - 185px);
+}
+.card text-center{
+    background: linear-gradient(180deg, #0061C1 -9%, #0046A1 79.62%);
+    padding: 2.5rem 0;
+    border-radius: 50px 0 50px 0;
+}
+
+.form{
+    max-width: 600px;
+    display: block;margin: 0 auto;
+    border-radius: 50px;
+}
+.form-control-file{
+    border-radius: 10px;
+}
+
+.btn-primary1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 81, 255);
+    border-color: rgb(48, 136, 177);
+    padding: 0.5rem;
+    display: block;margin: 0 auto;
+    max-width: 18rem;
+}
+
+.btn-primary{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 81, 255);
+    border-color: rgb(255, 0, 191);
+    padding: 0.5rem;
+    display: block;margin: 0 auto;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.card-header{
+    background-color:powderblue;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 0px 0px 0px 10px;
+}
+.card-body{
+    padding: 1rem;
+}
+
+
+.footer {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
